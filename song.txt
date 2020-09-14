@@ -15,3 +15,5 @@ add 2 lines
 
 
 comment in feature branch
+
+conflict solving in line1
