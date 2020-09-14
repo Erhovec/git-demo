@@ -13,8 +13,9 @@ ______________
 добавка в ветку
 add 2 lines
 
-
 comment in feature branch
 
-
 conflict solving
+
+conflict solving in line1
+
