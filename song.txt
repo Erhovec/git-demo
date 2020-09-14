@@ -12,3 +12,6 @@ ______________
 
 добавка в ветку
 add 2 lines
+
+
+comment in feature branch
