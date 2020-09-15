@@ -18,6 +18,6 @@ comment in feature branch
 conflict solving
 
 conflict solving in line1
-
+asdasd
 
 stashing 
