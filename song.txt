@@ -19,3 +19,5 @@ conflict solving
 
 conflict solving in line1
 
+
+stashing 
